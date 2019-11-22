@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574365410572.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4049464944",
+    "id" : "27CBD310",
+    "lastKnownWriteTime" : 1574415136,
+    "last_content_update" : 1574415136434,
+    "path" : "E:/Fiverr/Clients/Aakashkehdia/aakashkedia.R",
+    "project_path" : "aakashkedia.R",
+    "properties" : {
+        "cursorPosition" : "7,38",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
